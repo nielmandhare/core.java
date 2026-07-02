@@ -1,0 +1,7 @@
+123,Jet,Pune,Delhi
+920,Indigo,Mumbai,Goa
+101,AirIndia,Pune,Mumbai
+456,Jet,Delhi,Bangalore
+789,Vistara,Pune,Hyderabad
+222,Jet,Nagpur,Delhi
+333,SpiceJet,Mumbai,Chennai
