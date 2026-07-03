@@ -1,0 +1,24 @@
+Virat Kohli,Batsman,210,RCB
+Phil Salt,Wicket Keeper,115,RCB
+Rajat Patidar,Batsman,110,RCB
+Josh Hazlewood,Bowler,125,RCB
+Yash Dayal,Bowler,60,RCB
+Liam Livingstone,All Rounder,85,RCB
+Rohit Sharma,Batsman,160,MI
+Jasprit Bumrah,Bowler,180,MI
+Hardik Pandya,All Rounder,150,MI
+Suryakumar Yadav,Batsman,140,MI
+Ryan Rickelton,Wicket Keeper,70,MI
+MS Dhoni,Wicket Keeper,120,CSK
+Ruturaj Gaikwad,Batsman,130,CSK
+Ravindra Jadeja,All Rounder,160,CSK
+Matheesha Pathirana,Bowler,90,CSK
+KL Rahul,Wicket Keeper,170,DC
+Axar Patel,All Rounder,140,DC
+Kuldeep Yadav,Bowler,100,DC
+Faf du Plessis,Batsman,90,DC
+Shubman Gill,Batsman,180,GT
+Jos Buttler,Wicket Keeper,165,GT
+Rashid Khan,Bowler,170,GT
+Mohammed Siraj,Bowler,120,GT
+Washington Sundar,All Rounder,80,GT
